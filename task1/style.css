@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.margin{
+    width: 900px;
+    height: 600px;
+    background-color:#ff4500;
+    margin: 25px auto;
+}
+.border{
+    width: 850px;
+    height: 550px;
+    background-color:#ffff00;
+    margin: 8px  auto;
+}
+.padding{
+    width: 750px;
+    height: 500px;
+    background-color:#00ff00;
+    margin: 8px  auto;
+}
+.content{
+    width: 650px;
+    height: 450px;
+    background-color: #20b2aa;
+    background-image: url(https://lh4.googleusercontent.com/mGjxPGlQr2TfvTJx03DlnVCEozI1FoFALOkF2mki5VC5dk3PNyVX44-rRi9YCnaxs_e736aNos95I5M=w1348-h656);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 8px auto;
+}
+
